@@ -1,4 +1,5 @@
-# 🚀 Projeto em Java para atividade avaliativa da Ulbra 
+# 🚀 Projeto em Java para atividade avaliativa da <img src="src/assets/ulbra.svg" width="60"/> <a href="https://www.ulbra.br/" style="color: green;"> 
+
 Este projeto foi desenvolvido como parte da atividade avaliativa da Universidade Luterana do Brasil (Ulbra). O objetivo foi implementar soluções em Java para desafios diversos, utilizando boas práticas de programação, como TDD (Test-Driven Development), design modular e otimização de código.
 
 Este projeto consiste em várias aplicações simples desenvolvidas em Java, que implementam funcionalidades como cálculo de descontos, impostos, aposentadoria, circuitos de resistências e muito mais. O objetivo do projeto é praticar a manipulação de entradas e saídas em Java, além de aplicar conceitos de controle de fluxo, manipulação de dados e interação com o usuário.
